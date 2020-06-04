@@ -137,5 +137,5 @@ dmypy.json
 *.iml
 *.ipr
 
-./LocalTesting/*
-./LocalTesting
+./LocalTesting/
+/LocalTesting/
