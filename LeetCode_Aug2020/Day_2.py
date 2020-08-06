@@ -13,6 +13,7 @@ class Solution:
         return False
 
 
+
 obj = Solution()
 print(obj.detectCapitalUse("USA"))
 print(obj.detectCapitalUse("FlaG"))
