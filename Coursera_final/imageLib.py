@@ -1,0 +1,12 @@
+from PIL import Image
+im = Image.open("ProfilePhoto.jpg")
+# size = (128,128)
+# im.thumbnail(size)
+im.show()
+out = im.rotate(-90)
+out.show()
+out.save("final.jpg")
+# im.show()
+# new_im = im.resize((640,480)).rotate(90)
+# new_im.show()
+# new_im.save("profile_rotated.jpg")

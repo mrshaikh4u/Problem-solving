@@ -1,0 +1,1 @@
+This repository contains several coding and algorithmic problems and my solutions for those problems.
